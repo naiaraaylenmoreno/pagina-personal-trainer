@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+    color: #000000;
+}
+h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+header {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #000000;
+    color: #FFD700;
+}
+.titulo-seccion {
+    display: inline-block;
+    background-color: #000000;
+    color: #FFD700;
+    padding: 15px 25px;
+    border-radius: 8px;
+}
+section {
+    padding: 30px;
+}
+h2 {
+    font-size: 28px;
+}
+p {
+    font-size: 17px;
+    line-height: 1.6;
+}
+.tarjeta {
+    background-color: #F5F5F5;
+    padding: 20px;
+    margin: 15px 0;
+    border-left: 5px solid #FFD700;
+    border-radius: 8px;
+}
